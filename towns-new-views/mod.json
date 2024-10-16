@@ -6,7 +6,7 @@
 	"licenseURL" : "",
 	"modType" : "Graphical",
 	"name" : "Towns new views",
-	"version" : "1.04",
+	"version" : "1.06",
 	"factions" : 
 	[ 
 		"config/castle",
@@ -22,13 +22,18 @@
     ],
 	"changelog" :
     {
-        "1.0"   : [ "Initial release" ],
+        "1.0"  : [ "Initial release" ],
 		"1.01" : [ "Fixed some bugs with yellow flags" ],
 		"1.04" : [ "New graphic added" ],
-		"1.05" : [ "New graphic added" ]
+		"1.05" : [ "New graphic added" ],
+		"1.06" : [ "Czech translation by George King" ]
     },
 	"compatibility" :
 	{
 		"min" : "1.0.0"
+	},
+	"czech" : {
+		"name" : "Nové pohledy na města",
+		"description" : "Některé objekty měst nyní mění svůj vzhled podle terénu, na kterém se nacházejí."
 	}
 }
